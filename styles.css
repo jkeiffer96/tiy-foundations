@@ -1,0 +1,15 @@
+body{
+  background: black;
+  color: #2826lc;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+header{
+  background: #343e3d;
+  color: #cfffe4;
+}
+.article{
+  background: white
+color: black;
+font-size: 16px;
+}
